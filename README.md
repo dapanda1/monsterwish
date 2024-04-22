@@ -12,13 +12,19 @@ Things that can be done:<br>
 <br>
 Current Issues:<br>
 -The biggest issue is that it only wishes for things from the fax network. So if you can't wish for it but it is in the fax network, it will NOT error, it just won't wish. To get around this you have to get the monster from the Fax network, the script will not skip it. I have a feature request open that would help with this: http://kolmafia.us/showthread.php?22160-Genie-wish-to-notify-on-failure<br>
--May not check to see if you don't have any monsters to fight for factoids (e.g. your monster manuel is full). If you can't find a monster in the fax network to fight, it shouldn't try to summon something. I don't have a full manuel so I can't test it.<br>
+-May not check to see if you don't have any monsters to fight for factoids (e.g. your monster manuel is full). If you can't find a monster in the fax network to fight, it shouldn't try to summon something. I don't have a full manuel so I can't test it.<br><br>
 ------DO NOT ADVENTURE WITH THE PANTS: "papier-m?churidars" OR ANYTHING ELSE THAT "IMPROVES THINGS"------<br><br>
 
 Updates for the Future:<br>
+-Setup gear to maxmize combat to win<br>
+-Add more copiers<br>
+-Use OnlyFax<br>
+-Use Mimic<br>
+-Pull a complete list of monsters that can be used with Mimic *See Above about faxes<br>
 -Pull a complete list of wishable monsters, not just from the fax network. *See above<br>
 -Have combat for monsters that are immune to spells or basic attacks (or need combat items)<br>
 -Will check total adventures left vs copying amounts and use the correct amount of copies.<br>
+
 <br>
 <br>
 THIS IS A WORK IN PROGRESS USE AT YOUR OWN RISK. IF EASYFAX IS DOWN, IT MOST LIKELY WON'T WORK<br>
